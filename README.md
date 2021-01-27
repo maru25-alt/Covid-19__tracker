@@ -1,5 +1,7 @@
-1. wireframe   using draw
+# Live Site
 
-2. create react app
-3. structure of the app
-10. styling
+https://covid19-tracker-25.netlify.app/
+
+# Demo
+
+![](covid.gif)
